@@ -1,0 +1,2 @@
+Techstack:
+React Native + Expo
