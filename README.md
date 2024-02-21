@@ -1,1 +1,2 @@
-This proj, is created by tech of React-native + Expo
+Techstack:
+React Native + Expo
